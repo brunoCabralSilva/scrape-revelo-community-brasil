@@ -9,8 +9,8 @@
 
 <br />
 
-<h4 align="center">
-    Aplicação criada com o objetivo de coletar automaticamente todos os artigos que foram publicados por mim na plataforma da Revelo Community Brasil e criar um api com todas as informações coletadas. Para tal, foi utilizada a biblioteca Python FastAPI para a criação de um servidor, além da biblioteca Parsel para a transcrição dos dados que foram coletados por raspagem.
-</h4>
+<p align="justify">
+    A aplicação em questão foi criada com o objetivo de coletar automaticamente todos os artigos que foram publicados por mim na plataforma da Revelo Community Brasil e criar um api com todas as informações coletadas. Para tal, foi utilizada a biblioteca Python FastAPI para a criação de um servidor, além da biblioteca Parsel para a transcrição dos dados que foram coletados por raspagem.
+</p>
 
 <br />
